@@ -1,0 +1,15 @@
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\bin\Debug\net6.0\CarApp.exe
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\bin\Debug\net6.0\CarApp.deps.json
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\bin\Debug\net6.0\CarApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\bin\Debug\net6.0\CarApp.pdb
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\refint\CarApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.pdb
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
+C:\Users\judev\OneDrive\Desktop\janat\CarApp\obj\Debug\net6.0\ref\CarApp.dll
